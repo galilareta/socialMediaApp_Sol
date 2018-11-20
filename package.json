@@ -1,0 +1,19 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "Making Social Media App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Solomon Woldeselassie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
